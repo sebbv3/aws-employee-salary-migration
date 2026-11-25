@@ -19,4 +19,4 @@ AWS serverless architecture designed to migrate a Python salary calculation appl
 - Automated scheduling and monitoring
 
 ### Architecture
-<img width="602" height="972" alt="Employee Salary AWS Migration drawio" src="https://github.com/user-attachments/assets/8e4a97d8-86da-4b20-81b3-c32b177204dc" />
+<img width="1086" height="1448" alt="Employee Salary AWS Solution drawio" src="https://github.com/user-attachments/assets/be99b5bb-8410-4102-a3ec-dbabe2574f93" />
